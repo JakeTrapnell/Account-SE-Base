@@ -6,7 +6,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.qa.domain.Account;
+import com.qa.persistance.domain.Account;
 import com.qa.util.JSONUtil;
 
 public class AccountServiceTest {

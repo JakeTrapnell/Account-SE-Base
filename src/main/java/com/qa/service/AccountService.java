@@ -3,7 +3,7 @@ package com.qa.service;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.qa.domain.Account;
+import com.qa.persistance.domain.Account;
 
 public class AccountService {
 

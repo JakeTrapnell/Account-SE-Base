@@ -10,8 +10,10 @@
       
        -->
       
-      
-      <!-- <alternatives>
-        <class>com.qa.service.repository.AccountMapRepository</class>
-    </alternatives> -->
+      <!--  
+       <alternatives>
+        <class>com.qa.persistance.repository.AccountMap</class>
+    </alternatives>
+    --> 
 </beans>
+
